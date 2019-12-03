@@ -1,0 +1,2 @@
+export const CHANGE_STATUS_IS = 'CHANGE_STATUS_IS';
+export const CHANGE_STATUS_NOT = 'CHANGE_STATUS_NOT';

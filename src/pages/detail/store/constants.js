@@ -1,0 +1,2 @@
+export const CHNANGE_TOP_SHOW = 'CHNANGE_TOP_SHOW';
+export const CHNANGE_TOP_HIDE = 'CHNANGE_TOP_HIDE';
